@@ -1,14 +1,18 @@
 body {
   background-color: lightblue;
-  margin-top: 5em;
-  margin-left: 5em;
+  margin-top: 2em;
+  margin-left: 2em;
 }
 
 h1 {
   color: navy;
-  margin-left: 5em;
+  margin-left: 2em;
 }
 
 p {
-  margin-left: 5em;
+  margin-left: 2em;
+}
+
+ul {
+  margin-left:2em;
 }
